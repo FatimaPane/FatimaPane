@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/FatimaPane/FatimaPane/196f30c9114f1f87647e061b8944b99f43b5b7a2/header.png">
 <h3 align="center">I'm college student at Universitas Negeri Padang, majoring in Informatics 💻</h3> 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimapane&label=Profile%20views&color=0e75b6&style=flat" alt="fatimapane" /> </p>
 
